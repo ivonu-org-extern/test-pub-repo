@@ -1,3 +1,3 @@
 # test-pub-repo
 
-hallo
+hallo test
